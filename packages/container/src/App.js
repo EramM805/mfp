@@ -9,6 +9,7 @@ export default () => {
             <div>
                 <Header/>
                 <MarketingApp />
+                <p>Hi There</p>
             </div>
         </BrowserRouter>);
 }
